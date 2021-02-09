@@ -1,0 +1,2 @@
+este es un archivo de prueba para la clase FileReader de Java!
+Chequele machanta, sin compromiso!
